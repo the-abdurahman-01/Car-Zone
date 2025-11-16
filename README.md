@@ -1,9 +1,9 @@
 #  WatchMart — Timeless BD
 
 
-> **Project:** WatchMart Timeless BD (Frontend)
+> **Project:** Car-Zone
 ><br />
-> **Repository:** [https://github.com/amdadislam01/WatchMart-Timeless-BD](https://github.com/the-abdurahman-01/Car-Zone)]
+> **Repository:**[https://github.com/the-abdurahman-01/Car-Zone](https://github.com/the-abdurahman-01/Car-Zone)]
 ><br />
 
 
@@ -12,7 +12,7 @@
 
 ## ⚡ Overview
 
-WatchMart Timeless BD is a **frontend-only web application** designed for a modern watch store. The project showcases elegant product listings, product detail pages, and a smooth shopping cart flow (frontend UI only). It is built with **React.js (Vite)**, **Tailwind CSS**, **Bootstrap**, **React Icons**, and JavaScript, providing a responsive and polished shopping experience.
+Car-Zone is a **frontend-only web application** designed for a modern watch store. The project showcases elegant product listings, product detail pages, and a smooth shopping cart flow (frontend UI only). It is built with **React.js (Vite)**, **Tailwind CSS**, **Bootstrap**, **React Icons**, and JavaScript, providing a responsive and polished shopping experience.
 
 ---
 
