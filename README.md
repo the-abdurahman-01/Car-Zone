@@ -3,9 +3,9 @@
 
 > **Project:** WatchMart Timeless BD (Frontend)
 ><br />
-> **Repository:** [https://github.com/amdadislam01/WatchMart-Timeless-BD](https://github.com/amdadislam01/WatchMart-Timeless-BD)
+> **Repository:** [https://github.com/amdadislam01/WatchMart-Timeless-BD](https://github.com/the-abdurahman-01/Car-Zone)]
 ><br />
-> **Live Demo:** *https://watch-mart-timeless-bd.vercel.app/*
+
 
 ---
 
@@ -144,8 +144,8 @@ This project is licensed under the **MIT License**.
 
 ## 📞 Contact
 
-* GitHub: [amdadislam01](https://github.com/amdadislam01)
-* Email: `amdad20063@gmail.com` 
+* GitHub: [the-abdurahman-01](https://github.com/the-abdurahman-01)
+* Email: `abdurrahman.dev01@gmail.com` 
 
 ---
 
